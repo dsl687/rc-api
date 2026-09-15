@@ -1,4 +1,5 @@
 *
 !.gitignore
-!/app-version.json
-!/catalog-control.json
+!crypto/
+!crypto/version/
+!crypto/version/database_version.json
