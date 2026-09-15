@@ -1,0 +1,4 @@
+*
+!.gitignore
+!/app-version.json
+!/catalog-control.json
